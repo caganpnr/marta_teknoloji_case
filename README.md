@@ -28,7 +28,13 @@
 
 * Configuration Management
   - [Envied](https://pub.dev/packages/envied)
-  
+ 
+* Location Services
+  - [Geolocator](https://pub.dev/packages/geolocator)
+ 
+* App Settings
+  - [AppSettings](https://pub.dev/packages/app_settings)
+
 * Testing
   - [Mocktail](https://pub.dev/packages/mocktail)
 
